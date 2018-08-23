@@ -11,8 +11,8 @@ import (
 	"net/http"
 	"strconv"
 
-	"golang.org/x/debug/internal/core"
-	"golang.org/x/debug/internal/gocore"
+	"github.com/sunnogo/debug/internal/core"
+	"github.com/sunnogo/debug/internal/gocore"
 )
 
 // serveHTML starts and serves a webserver on the port.

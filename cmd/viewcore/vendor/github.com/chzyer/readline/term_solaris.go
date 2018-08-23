@@ -6,7 +6,7 @@
 
 package readline
 
-import "golang.org/x/sys/unix"
+import "github.com/sunnogo/sys/unix"
 
 // GetSize returns the dimensions of the given terminal.
 func GetSize(fd int) (int, int, error) {

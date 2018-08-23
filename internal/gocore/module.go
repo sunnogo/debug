@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"sort"
 
-	"golang.org/x/debug/internal/core"
+	"github.com/sunnogo/debug/internal/core"
 )
 
 type module struct {

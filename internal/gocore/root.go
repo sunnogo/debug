@@ -5,7 +5,7 @@
 package gocore
 
 import (
-	"golang.org/x/debug/internal/core"
+	"github.com/sunnogo/debug/internal/core"
 )
 
 // A Root is an area of memory that might have pointers into the Go heap.

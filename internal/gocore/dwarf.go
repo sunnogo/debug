@@ -11,7 +11,7 @@ import (
 	"sort"
 	"strings"
 
-	"golang.org/x/debug/internal/core"
+	"github.com/sunnogo/debug/internal/core"
 )
 
 // read DWARF types from core dump.

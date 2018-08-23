@@ -19,7 +19,7 @@ package core
 import (
 	"bytes"
 	"debug/dwarf"
-	"debug/elf" // TODO: use golang.org/x/debug/elf instead?
+	"debug/elf" // TODO: use github.com/sunnogo/debug/elf instead?
 	"encoding/binary"
 	"fmt"
 	"os"

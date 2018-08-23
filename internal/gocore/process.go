@@ -10,7 +10,7 @@ import (
 	"strings"
 	"sync"
 
-	"golang.org/x/debug/internal/core"
+	"github.com/sunnogo/debug/internal/core"
 )
 
 // A Process represents the state of a Go process that core dumped.

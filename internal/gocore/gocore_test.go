@@ -11,7 +11,7 @@ import (
 	"reflect"
 	"testing"
 
-	"golang.org/x/debug/internal/core"
+	"github.com/sunnogo/debug/internal/core"
 )
 
 // loadTest loads a simple core file which resulted from running the

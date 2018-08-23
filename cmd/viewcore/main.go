@@ -21,8 +21,8 @@ import (
 
 	"github.com/chzyer/readline"
 	"github.com/spf13/cobra"
-	"golang.org/x/debug/internal/core"
-	"golang.org/x/debug/internal/gocore"
+	"github.com/sunnogo/debug/internal/core"
+	"github.com/sunnogo/debug/internal/gocore"
 )
 
 // Top-level command.
